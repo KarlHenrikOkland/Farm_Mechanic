@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88294073a88c6b24cb843d77f6f606ec, type: 3}
+  m_Name: EnginePartDatabase
+  m_EditorClassIdentifier: 
+  allParts:
+  - partID: 1.1
+    partName: EngineBlock
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 1.12
+    partName: OilPan
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 1.2
+    partName: Pistons
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 1.3
+    partName: Crankshaft
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 1.4
+    partName: Camshaft
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.1
+    partName: InjectorFuel
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.2
+    partName: SparkPlug
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.3
+    partName: FilterAir
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.4
+    partName: FilterOil
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.5
+    partName: Radiator
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.6
+    partName: PumpWater
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.7
+    partName: PumpOil
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 2.8
+    partName: Alternator
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 3.1
+    partName: Battery
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 3.2
+    partName: ExhaustManifold
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 3.3
+    partName: ExhaustPipe
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
+  - partID: 3.4
+    partName: BeltFan
+    prefab: {fileID: 0}
+    requiredParts: []
+    incompatibleParts: []
